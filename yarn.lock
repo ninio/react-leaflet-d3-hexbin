@@ -4,7 +4,7 @@
 
 "@asymmetrik/leaflet-d3@https://github.com/ninio/leaflet-d3":
   version "3.1.1"
-  resolved "https://github.com/ninio/leaflet-d3#59ce0754fe29cfd7e03bd4d1839a00d8749fb541"
+  resolved "https://github.com/ninio/leaflet-d3#8048846783bb09f3e430c91ff01826659c8e171d"
 
 abab@^1.0.3:
   version "1.0.4"
