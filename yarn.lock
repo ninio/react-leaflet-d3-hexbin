@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@asymmetrik/leaflet-d3@^3.1.1":
+"@asymmetrik/leaflet-d3@https://github.com/ninio/leaflet-d3":
   version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@asymmetrik/leaflet-d3/-/leaflet-d3-3.1.1.tgz#724997c3bc8be4985b880ead93bcdb4a98bf9ec5"
+  resolved "https://github.com/ninio/leaflet-d3#59ce0754fe29cfd7e03bd4d1839a00d8749fb541"
 
 abab@^1.0.3:
   version "1.0.4"

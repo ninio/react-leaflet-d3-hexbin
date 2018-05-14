@@ -1,6 +1,6 @@
 {
 	"name": "react-leaflet-d3-hexbin",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "React wrapper for the Leaflet Hexbin Layer from @asymmetrik/leaflet-d3 ",
 	"main": "build/index.js",
 	"scripts": {
@@ -18,7 +18,7 @@
 		"url": "https://github.com/ninio/react-leaflet-d3-hexbin/issues"
 	},
 	"license": "MIT",
-	"homepage": "https://github.com/DimitriMikadze/create-react-library#readme",
+	"homepage": "https://github.com/ninio/react-leaflet-d3-hexbin#readme",
 	"dependencies": {
 		"@asymmetrik/leaflet-d3": "https://github.com/ninio/leaflet-d3",
 		"d3-hexbin": "^0.2.2"
