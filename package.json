@@ -2,7 +2,7 @@
 	"name": "react-leaflet-d3-hexbin",
 	"version": "0.0.2",
 	"description": "React wrapper for the Leaflet Hexbin Layer from @asymmetrik/leaflet-d3 ",
-	"main": "build/index.js",
+	"main": "lib/index.js",
 	"scripts": {
 		"start": "node scripts/start.js",
 		"build": "node scripts/build.js",
